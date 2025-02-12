@@ -17,7 +17,7 @@ public class Tp5Application {
 
 		@GetMapping
 		public String test() {
-			return "Hello BDCC";
+			return "Hello BDCC second commit";
 		}
 
 	}
